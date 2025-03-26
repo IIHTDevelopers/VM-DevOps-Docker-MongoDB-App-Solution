@@ -1,7 +1,0 @@
-Test Results Summary
-==================================================
-Total Tests Run     : 6
-Passed Tests        : 6
-Failed Tests        : 0
-Skipped Tests       : 0
-Pass Percentage     : 100.00%
